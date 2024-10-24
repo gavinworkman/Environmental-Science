@@ -26,8 +26,8 @@
 
 ## Chapter 3
 
-- [3\.1 Generalist and Specialist Species](chapter-3/3.1-generalist-and-specialist-species.md)
-- [3\.2 K-Selected r-selected Species](chapter-3/3.2-k-selected-and-r-selected-species.md)
+- [[3.1-generalist-and-specialist-species]] 
+- [[3.2-k-selected-and-r-selected-species]]
 - [3\.3 Survivorship Curves](chapter-3/3.3-survivorship-curves.md)
 - [3\.4 Carrying Capacity](chapter-3/3.4-carrying-capacity.md)
 - [3\.5 Population Growth and Resource Availability](chapter-3/3.5-population-growth-and-resource-availability.md)
