@@ -1,19 +1,18 @@
 # Table of contents
 
-- [APES Notes!](README.md)
-- [Chapter 1](chapter-1/README.md)
-  - [1\.1 Introduction to Ecosystems](chapter-1/1.1-introduction-to-ecosystems.md)
-  - [1\.2 Terrestrial Biomes](chapter-1/1.2-terrestrial-biomes.md)
-  - [1\.3 Aquatic Biomes](chapter-1/1.3-aquatic-biomes.md)
-  - [1\.4 The Carbon Cycle](chapter-1/1.4-the-carbon-cycle.md)
-  - [1\.5 The Nitrogen Cycle](chapter-1/1.5-the-nitrogen-cycle.md)
-  - [1\.6 The Phosphorus Cycle](chapter-1/1.6-the-phosphorus-cycle.md)
-  - [1\.7 The Hydrological (Water) Cycle](chapter-1/1.7-the-hydrological-water-cycle.md)
-  - [1\.8 Primary Productivity](chapter-1/1.8-primary-productivity.md)
-  - [1\.9 Trophic Levels](chapter-1/1.9-trophic-levels.md)
-  - [1\.10 Energy Flow and the 10% Rule](chapter-1/1.10-energy-flow-and-the-10-rule.md)
-  - [1\.11 Food Chains and Food Webs](chapter-1/1.11-food-chains-and-food-webs.md)
-- [Chapter 2](chapter-2/README.md)
+- Chapter 1
+  - [[1.1-introduction-to-ecosystems]] 
+  - [[1.2-terrestrial-biomes]] 
+  - [[1.3-aquatic-biomes]] 
+  - [[1.4-the-carbon-cycle]] 
+  - [[1.5-the-nitrogen-cycle]] 
+  - [[1.6-the-phosphorus-cycle]] 
+  - [[1.7-the-hydrological-water-cycle]] 
+  - [[1.8-primary-productivity]] 
+  - [[1.9-trophic-levels]] 
+  - [[1.10-energy-flow-and-the-10-rule]] 
+  - [[1.11-food-chains-and-food-webs]] 
+- Chapter 2
   - [2\.1 Introduction to Biodiversity](chapter-2/2.1-introduction-to-biodiversity.md)
   - [2\.2 Ecosystem Services](chapter-2/2.2-ecosystem-services.md)
   - [2\.3 Island Biogeography](chapter-2/2.3-island-biogeography.md)
